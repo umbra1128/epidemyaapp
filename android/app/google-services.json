@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "128166393160",
+    "firebase_url": "https://epidemyacaps.firebaseio.com",
+    "project_id": "epidemyacaps",
+    "storage_bucket": "epidemyacaps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128166393160:android:19ef0fdba85c4466",
+        "android_client_info": {
+          "package_name": "com.prvy.epidemyacaps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128166393160-59ee2ktcea4gu1h3d580i2in5m2cf73o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-6SaTNIsy-dBQyxFqBsMwHcmL1P9lXIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128166393160-59ee2ktcea4gu1h3d580i2in5m2cf73o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
